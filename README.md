@@ -10,4 +10,8 @@ License, and code is licensed under a BSD license.
 usage
 -------
 
-Copy these files into ```/usr/local/share/man/man3``` and run ```sudo mandb```. To use: ```man go_net_http```. All packages are prefixed with "go\_" and separators in subpackages are ```\_```.
+Copy these files into ```/usr/local/share/man/man3``` and run ```sudo mandb```. 
+
+To use: ```man go_package_name```.  For example, net/http documentation can be accessed as ```man go_net_http```. 
+
+All packages are prefixed with "go\_" and separators in subpackages are "\_".
